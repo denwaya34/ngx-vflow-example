@@ -1,5 +1,5 @@
 {
-  "name": "ngx-flow-example",
+  "name": "ngx-vflow-example",
   "version": "0.0.0",
   "scripts": {
     "preinstall": "npx only-allow pnpm",
